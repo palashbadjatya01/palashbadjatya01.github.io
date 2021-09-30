@@ -1,12 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
-  <g id="Group_318" data-name="Group 318" transform="translate(-959 -778)">
-    <circle id="Ellipse_4" data-name="Ellipse 4" cx="50" cy="50" r="50" transform="translate(959 778)" fill="#e8e5fc"/>
-    <path id="Path_286" data-name="Path 286" d="M44.418,29.874a4.465,4.465,0,0,1-1.584-.285v8.994a1.588,1.588,0,0,1-1.584,1.584H12.75a1.588,1.588,0,0,1-1.584-1.584V16.417H23.105a9.947,9.947,0,0,1-.064-1.187,11.294,11.294,0,0,1,2.2-6.728H12.75A4.764,4.764,0,0,0,8,13.251V38.585a4.764,4.764,0,0,0,4.75,4.75h28.5A4.764,4.764,0,0,0,46,38.585v-9A4.443,4.443,0,0,1,44.418,29.874Z" transform="translate(982 801.689)" fill="#6c55f9"/>
-    <path id="Path_287" data-name="Path 287" d="M35,24.917,30.867,20.8a8.311,8.311,0,1,0-2.233,2.232l4.116,4.132a1.606,1.606,0,0,0,2.247,0,1.6,1.6,0,0,0,0-2.249Zm-11.02-3.627a5.147,5.147,0,1,1,5.147-5.147A5.157,5.157,0,0,1,23.979,21.291Z" transform="translate(992.542 800.772)" fill="#6c55f9"/>
-    <g id="Group_313" data-name="Group 313" transform="translate(997.127 827.604)">
-      <path id="Path_288" data-name="Path 288" d="M17.52,24.749a1.186,1.186,0,0,1-.9-1.959l1.712-2-1.712-2a1.187,1.187,0,1,1,1.8-1.546L20.8,20.02a1.191,1.191,0,0,1,0,1.546l-2.375,2.772A1.2,1.2,0,0,1,17.52,24.749Z" transform="translate(-3.669 -14.457)" fill="#afa2ff"/>
-      <path id="Path_289" data-name="Path 289" d="M14.564,24.751a1.187,1.187,0,0,1-.9-.413l-2.375-2.772a1.191,1.191,0,0,1,0-1.546l2.375-2.772a1.187,1.187,0,1,1,1.8,1.546l-1.712,2,1.712,2a1.189,1.189,0,0,1-.9,1.962Z" transform="translate(-11.001 -14.459)" fill="#afa2ff"/>
-      <path id="Path_290" data-name="Path 290" d="M14.588,28.47a1.188,1.188,0,0,1-.891-1.425l2.375-10.291a1.189,1.189,0,0,1,2.316.537L16.013,27.582A1.192,1.192,0,0,1,14.588,28.47Z" transform="translate(-7.335 -15.833)" fill="#afa2ff"/>
-    </g>
-  </g>
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+	<title>service-3-svg</title>
+	<defs>
+		<image  width="62" height="62" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAA+CAMAAABEH1h2AAAAAXNSR0IB2cksfwAAAYxQTFRFAAAAAnSzAnSzAnSzAnSzAnSzAnSzAnSzAnSzAnSzAnSzAnSzAnSzAnSzAnSzLIvAUaDLTZ3KHoO7JIe9wN3s/////f7+nsriF3+5Joi+8vj7z+XxGYG6A3Szx+DumMfgNpHD7/b6CHe1XqfPLYzAXabOK4u/Mo/B7fX5Bna0BHWzutrqkMLe4/D3vtvrKYm/r9Pn+fz98Pf7lsXfGoG6FX+5RJjHPZTFCXi1QpfGZqvRdbPVcbHUYqnQRZnHH4S8BXW0bq/UUJ/LBHW0grraqtHmLYvAlMTf4u/27vX6qtDlUJ/KoMvidbPWBXa0vdvrA3WzB3e0aKzS7fX6oMvjG4K7hLza/v7/D3u3bK7T/P3+ps7k7PT5MY7BpM3k8/j7B3e1ttfpocvj1ejyM4/Cir/cCnm2TZ7K9/v9W6XOkcPeba/TerbX5PD3kcLep87krdLno8zjeLXXi7/cebbXs9XoU6DLtdbpZarQSpvJd7TWcrHUAnSzAnSzAnSzAnSzAnSzAnSzAnSzAnSzQ7WtgAAAAIR0Uk5TADqp1NbTqDmF/f+EQLDa/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////6w7/H59N6c2dCowSAAAAY5JREFUeJzt11dPAkEUBeBBEGUFGw42ioANK1ixFywoYK/Ye1fsoojtj8vKzoAEEuZuTDDhvN2T/V52Zje5CCFJhlQGSKY8C4WSreCAUeQgpATrkFciFVxznArJxHAZyhXDc1OI5+UXFIK5ughjrCkugfHSMvyTci2E6/RYiAHCK4jGRhOAmynHlQBeFeHVAF5Dda0FwOvqCW9IWkcfnLoxrJtAB8dxzVYbxi2tbcnrmEvb3tFpZ8Cp9cUljE7b1d3T29c/MJiQD1mFDPOTY0SYRnWcbmzcGT6ViUmXPQF3k3P38NPUtDDZZmbn5iM3UrOwyMZNS8s4OvoVJr7qxb+zxsI16zEaezcYeJxsiuNb22zcuGPY3Yua91m49+CQb46OaXPCwk+FB85oc87AneSeWC5IdcnAr+h79pHqmoHfUH5LKh8DN1N+R6p7Bv5AuYdUjwzcleZpnuZ/wJ/cQvz85HgmI/2tcn5SvcThkPxzLnIVCojhAfQqYg0MShB6C4L1O7/EfshBK7D08wuhb+bEC40y9ZiMAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #e8e5fc } 
+	</style>
+	<g id="Group_318">
+		<path id="Ellipse_4" class="shp0" d="M50 100C22.35 100 0 77.65 0 50C0 22.35 22.35 0 50 0C77.65 0 100 22.35 100 50C100 77.65 77.65 100 50 100Z" />
+		<use id="Layer 1" href="#img1" x="19" y="19" />
+	</g>
 </svg>
